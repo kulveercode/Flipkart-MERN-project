@@ -24,7 +24,7 @@ function Search() {
   return (
     <SearchContainer>
       <InputSearchBase 
-        placeholder='Seach for products brands and more'
+        placeholder='Search for products brands and more'
        />
        <SearchIconWrapper>
         <SearchIcon />
